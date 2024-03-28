@@ -1,1 +1,1 @@
-Static Website
+Website

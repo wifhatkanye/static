@@ -9,6 +9,11 @@
     height: auto;
 }
 
+.topimg {
+    widt: 500;
+    height: 500;
+}
+
 .mainbg video {
     width: 100vw;
     height: 100vh;

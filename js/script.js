@@ -35,5 +35,4 @@ function typeJs() {
 }
 
 
-
 setInterval(typeJs, 120);

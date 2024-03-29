@@ -50,17 +50,6 @@
     font-size: 20px;
     text-shadow: 0 0 3px #fff;
 }
-
-body {
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: center;
-  align-items: center;
-    background-color: #222;
-    --translate-x: 30px;
-    --translate-y: -20px;
-  }
   
   .portrait {
     width: 80%;
@@ -70,7 +59,7 @@ body {
     position: relative;
     overflow: hidden;
     float: left;
-    margin-right: 20px; /* Adjust the margin as needed */
+
   }
   .portrait:hover .hover {
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40);

@@ -1,0 +1,15 @@
+{
+    "name": "Special Memes Unit",
+    "symbol": "SPMU",
+    "description": "We are a global unit of special meme detectives striving to change the world",
+    "image": "https://specialmemesunit.com/assets/logotop.png",
+    "attributes": [],
+    "properties": {
+      "files": [
+        {
+          "uri": "https://specialmemesunit.com/assets/logotop.png",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
